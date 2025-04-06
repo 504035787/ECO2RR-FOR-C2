@@ -2,14 +2,17 @@
 
 This is a test case for electrochemical CO2 reduction reaction.
 
+Based on OpenFuelCell2
+
+ONLY for github initial test use
+
 Chemical reaction:
 
 - Anode side:
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\textrm{H}_{2}\textrm{O}\to\textrm{2H}^{+}+\textrm{0.5O}_{2}+\textrm{2e}^{-}" title="\Large \textrm{H}_{2}\textrm{O}\to\textrm{2H}^{+}+\textrm{0.5O}_{2}+\textrm{2e}^{-}" />
 - Cathode side:
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\textrm{2H}^{+}+\textrm{2e}^{-}\to\textrm{H}_{2}" title="\Large \textrm{2H}^{+}+\textrm{2e}^{-}\to\textrm{H}_{2}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\textrm{2CO}_{2}+\textrm{2e}^{-}\to\textrm{H}_{2}" title="\Large \textrm{2H}^{+}+\textrm{2e}^{-}\to\textrm{H}_{2}" />
 - Overall Reaction:
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\textrm{H}_{2}\textrm{O}\to\textrm{H}_{2}+\textrm{0.5O}_{2}" title="\Large \textrm{H}_{2}\textrm{O}\to\textrm{H}_{2}+\textrm{0.5O}_{2}" />
 
 The water may exist in vapor and liquid in PEM water electrolyzer cells
 
