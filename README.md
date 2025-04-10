@@ -4,7 +4,9 @@ This is a test case for electrochemical CO2 reduction reaction.
 
 Based on OpenFuelCell2
 
-ONLY for github initial test use
+Zhang, S., Hess, S., & Beale, S. (2023). openFuelCell2 (Version 2.0.0) [Computer software]. https://github.com/openFuelCell2/openFuelCell2.git
+
+ONLY for github initial test use, not ready to be used
 
 Chemical reaction:
 
@@ -14,7 +16,6 @@ Chemical reaction:
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\textrm{2CO}_{2}+\textrm{2e}^{-}\to\textrm{H}_{2}" title="\Large \textrm{2H}^{+}+\textrm{2e}^{-}\to\textrm{H}_{2}" />
 - Overall Reaction:
 
-The water may exist in vapor and liquid in PEM water electrolyzer cells
 
 ## Operating conditions
 
